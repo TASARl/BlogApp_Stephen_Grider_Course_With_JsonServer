@@ -1,0 +1,3 @@
+Çalıştırmak için
+
+npm start
